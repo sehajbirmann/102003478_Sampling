@@ -30,7 +30,7 @@ ___
 | K-Nearest Neighbors    |98.12          |95.91       |92.20       |88.69    |86.00        |
 
 ## Discussion
-It is recommended to use Decision Tree Algorithm upon taking samples using the Simple Random Sampling technique. We get an accuracy of 99.62%.
+It is recommended to use Decision Tree Algorithm upon taking samples using the Simple Random Sampling technique. We get an accuracy of 99.25%.
 
 ___
 
