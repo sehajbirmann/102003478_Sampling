@@ -24,7 +24,7 @@ ___
 |                        | Simple Random | Stratified | Systematic | Cluster | Multi-Satge |
 | ---------------------- | ------------- | ---------- | ---------- | ------- | ----------- |
 | Logistic Regression    |91.01          |91.32       |79.22       |91.30    |94.00        |
-| Decision Tree          |99.62          |96.42       |92.20       |95.65    |92.00        |
+| Decision Tree          |99.25          |97.44       |90.90       |95.65    |98.00        |
 | Support Vector Machine |69.66          |63.26       |70.12       |72.17    |70.00        |
 | Gaussian Naive Bayes   |76.02          |75.00       |77.92       |66.95    |58.00        |
 | K-Nearest Neighbors    |98.12          |95.91       |92.20       |88.69    |86.00        |
